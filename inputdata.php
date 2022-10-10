@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <title>PINK VENOM</title>
-    <link rel="stylesheet" href="styleadminpage.css">
+    <link rel="stylesheet" href="styleadminpg.css">
 
 </head>
 
